@@ -3,7 +3,7 @@
 1. Clone repository:
 
 ```sh
-git clone
+git clone https://github.com/SavvasStephanides/local-deepseek.git
 ```
 
 2. Run the two apps from Docker Compose:
